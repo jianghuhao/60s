@@ -1,8 +1,8 @@
 export const config = {
   host: process.env.HOST || '0.0.0.0',
   port: process.env.PORT ? +process.env.PORT : 4399,
-  group: '595941841',
-  author: 'gkzhan <gkzhan@gmail.com>',
+  group: '16740622',
+  author: 'hblongqiang <hblongqiang@gmail.com>',
   github: 'https://github.com/jianghuhao/60s',
   encodingParamName: process.env.ENCODING_PARAM_NAME || 'encoding',
 }
